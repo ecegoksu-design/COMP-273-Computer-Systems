@@ -1,6 +1,3 @@
-#Ece Goksu
-#261138642
-
 .data
  
 command_list: .asciiz "Commands (encrypt, decrypt, quit): "
