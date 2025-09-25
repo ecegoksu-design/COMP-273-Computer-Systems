@@ -1,7 +1,3 @@
-############ COMP 273, Fall 2024, Assignment 4, Tower of Hanoi ###########
-# Student ID: 261138642
-# Name: Ece Goksu
-
 .data
 AlgorithmType:  .word 0    # Which Algorithm to run!
 			   # 0 Recursive
